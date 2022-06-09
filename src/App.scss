@@ -1,0 +1,15 @@
+// components
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+@import "./components/LandingPage/_landing-page.scss";
+@import "./components/BlogPage/_blog-page.scss";
+@import "./components/NavBar/_navbar.scss";
+@import "./scss/_variables.scss";
